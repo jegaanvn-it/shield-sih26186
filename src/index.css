@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Roboto Condensed', 'Inter', sans-serif;
+  }
+  
+  input[type="range"] {
+    accent-color: #D9A441;
+  }
+
+  html.light input[type="range"] {
+    accent-color: #1F3A5F;
+  }
+}
+
+/* Custom scrollbars & HUD military styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #1E2630;
+  border-radius: 2px;
+}
+
+.light ::-webkit-scrollbar-thumb {
+  background: #D8D4CA;
+  border-radius: 2px;
+}
