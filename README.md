@@ -136,6 +136,14 @@ Useful next steps are to establish a threat model and data governance plan, impl
 - Smart India Hackathon 2026 problem statement: **SIH26186**
 - Team: **NEXOTRON** (Team ID **150958**)
 
+### Team roles
+
+- **Frontend development:** Madhushyam, Kishore Kumar
+- **Security in-charge:** Poornima
+- **Hardware:** Balavisakan, Jegaan
+- **Machine learning:** Balavisakan, Jegaan
+- **Backend development:** Balavisakan, Jegaan, Vidharsana
+
 ## License
 
 No license is currently specified. Add a license before accepting reuse or contributions; without one, standard copyright restrictions apply.
