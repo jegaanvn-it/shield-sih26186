@@ -141,7 +141,7 @@ Useful next steps are to establish a threat model and data governance plan, impl
 - **Frontend development:** Madhushyam, Kishore Kumar
 - **Security in-charge:** Poornima
 - **Hardware:** Balavisakan, Jegaan
-- **Machine learning:** Balavisakan, Jegaan
+- **Machine learning:** Jegaan , Poornima 
 - **Backend development:** Balavisakan, Jegaan, Vidharsana
 
 ## License
